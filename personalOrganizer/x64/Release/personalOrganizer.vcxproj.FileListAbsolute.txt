@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\x64\Release\personalOrganizer.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\x64\Release\personalOrganizer.loginForm.resources
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\x64\Release\personalOrganizer.vcxproj.GenerateResource.cache
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\x64\Release\personalOrganizer.Dashboard.resources
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\x64\Release\personalOrganizer.registrationForm.resources

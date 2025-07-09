@@ -1,0 +1,16 @@
+﻿  Dashboard.cpp
+  Program.cpp
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\loginForm.h(316,19): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'Program.cpp')
+  
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\registrationForm.h(298,20): warning C4101: 'ex': unreferenced local variable
+  (compiling source file 'Program.cpp')
+  
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\Program.cpp(9,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  registrationForm.cpp
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\registrationForm.h(298,20): warning C4101: 'ex': unreferenced local variable
+  (compiling source file 'registrationForm.cpp')
+  
+  Generating Code...
+  Dashboard.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  personalOrganizer.vcxproj -> C:\Users\User\source\repos\personalOrganizer\x64\Release\personalOrganizer.exe

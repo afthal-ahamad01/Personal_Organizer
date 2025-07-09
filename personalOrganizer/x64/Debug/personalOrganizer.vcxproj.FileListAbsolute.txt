@@ -1,0 +1,36 @@
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.loginForm.resources
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.vcxproj.GenerateResource.cache
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.Dashboard.resources
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.registrationForm.resources
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.Income.resources
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.Expences.resources
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.setBudget.resources
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.Showing Report.resources
+D:\OOP_Project\Rikazaa\personalOrganizer\x64\Debug\personalOrganizer.vcxproj.AssemblyReference.cache
+D:\OOP_Project\Rikazaa\personalOrganizer\x64\Debug\personalOrganizer.Dashboard.resources
+D:\OOP_Project\Rikazaa\personalOrganizer\x64\Debug\personalOrganizer.Expences.resources
+D:\OOP_Project\Rikazaa\personalOrganizer\x64\Debug\personalOrganizer.Income.resources
+D:\OOP_Project\Rikazaa\personalOrganizer\x64\Debug\personalOrganizer.loginForm.resources
+D:\OOP_Project\Rikazaa\personalOrganizer\x64\Debug\personalOrganizer.registrationForm.resources
+D:\OOP_Project\Rikazaa\personalOrganizer\x64\Debug\personalOrganizer.setBudget.resources
+D:\OOP_Project\Rikazaa\personalOrganizer\x64\Debug\personalOrganizer.Showing Report.resources
+D:\OOP_Project\Rikazaa\personalOrganizer\x64\Debug\personalOrganizer.vcxproj.GenerateResource.cache
+C:\Users\aftha\source\repos\My Project Updated\personalOrganizer\x64\Debug\personalOrganizer.vcxproj.AssemblyReference.cache
+C:\Users\aftha\source\repos\My Project Updated\personalOrganizer\x64\Debug\personalOrganizer.Dashboard.resources
+C:\Users\aftha\source\repos\My Project Updated\personalOrganizer\x64\Debug\personalOrganizer.Expences.resources
+C:\Users\aftha\source\repos\My Project Updated\personalOrganizer\x64\Debug\personalOrganizer.Income.resources
+C:\Users\aftha\source\repos\My Project Updated\personalOrganizer\x64\Debug\personalOrganizer.loginForm.resources
+C:\Users\aftha\source\repos\My Project Updated\personalOrganizer\x64\Debug\personalOrganizer.registrationForm.resources
+C:\Users\aftha\source\repos\My Project Updated\personalOrganizer\x64\Debug\personalOrganizer.setBudget.resources
+C:\Users\aftha\source\repos\My Project Updated\personalOrganizer\x64\Debug\personalOrganizer.Showing Report.resources
+C:\Users\aftha\source\repos\My Project Updated\personalOrganizer\x64\Debug\personalOrganizer.vcxproj.GenerateResource.cache
+C:\Users\aftha\Desktop\ict2122105\personalOrganizer\x64\Debug\personalOrganizer.vcxproj.AssemblyReference.cache
+C:\Users\aftha\Desktop\ict2122105\personalOrganizer\x64\Debug\personalOrganizer.Dashboard.resources
+C:\Users\aftha\Desktop\ict2122105\personalOrganizer\x64\Debug\personalOrganizer.Expences.resources
+C:\Users\aftha\Desktop\ict2122105\personalOrganizer\x64\Debug\personalOrganizer.Income.resources
+C:\Users\aftha\Desktop\ict2122105\personalOrganizer\x64\Debug\personalOrganizer.loginForm.resources
+C:\Users\aftha\Desktop\ict2122105\personalOrganizer\x64\Debug\personalOrganizer.registrationForm.resources
+C:\Users\aftha\Desktop\ict2122105\personalOrganizer\x64\Debug\personalOrganizer.setBudget.resources
+C:\Users\aftha\Desktop\ict2122105\personalOrganizer\x64\Debug\personalOrganizer.Showing Report.resources
+C:\Users\aftha\Desktop\ict2122105\personalOrganizer\x64\Debug\personalOrganizer.vcxproj.GenerateResource.cache
